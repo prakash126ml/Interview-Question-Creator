@@ -1,8 +1,5 @@
 # Interview-Question-Creator
 
-
-# Interview-Question-Creator
-
 [](https://github.com/entbappy/Interview-Question-Creator/blob/main/README.md#interview-question-creator)
 
 ## How to run:
