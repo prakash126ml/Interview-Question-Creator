@@ -40,3 +40,29 @@ pip install -r requirements.txt
 
 4. git push origin main
 ```
+
+***Deployment Command***
+
+sudo apt update
+
+sudo apt-get update
+
+sudo apt upgrade -y
+
+sudo apt install git curl unzip tar make sudo vim wget -y
+
+git clone
+
+touch .env -> ls -al -> vim .env -> save api key -> save and exit
+
+sudo apt install python3-pip
+
+sudo apt install python3-venv
+
+python3 -m venv .venv
+
+source .venv/bin/activate
+
+pip3 install -r requirements.txt
+
+python3
