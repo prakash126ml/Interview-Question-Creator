@@ -43,6 +43,7 @@ pip install -r requirements.txt
 
 ***Deployment Command***
 
+
 sudo apt update
 
 sudo apt-get update
@@ -65,4 +66,4 @@ source .venv/bin/activate
 
 pip3 install -r requirements.txt
 
-python3
+python3 app.py
